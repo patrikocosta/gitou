@@ -1,7 +1,7 @@
 
 
 
-function hello () {
+function hello (cdcdscds) {
 
     alert("whay");
 
