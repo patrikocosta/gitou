@@ -1,7 +1,7 @@
 
 
 
-function hello () {
+function hello (asas) {
 
     alert("whay");
 
